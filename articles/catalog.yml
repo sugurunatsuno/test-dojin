@@ -3,6 +3,7 @@ PREDEF:
 
 CHAPS:
   - article.re
+  - test_chap001.re
 
 APPENDIX:
 
